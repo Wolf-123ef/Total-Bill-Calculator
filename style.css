@@ -1,0 +1,10 @@
+#Bill,#Discount,#Tip{
+    width: 500px;
+    text-align: center;
+    margin: auto;
+}#btn{
+    background-color: green;
+    height: 40px;
+    width: 300px;
+    border: none;
+}
